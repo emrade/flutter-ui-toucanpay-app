@@ -1,6 +1,8 @@
 # Flutter UI for ToucanPay App
 
-A Flutter representation of ToucanPay App UI design by <a href="https://dribbble.com/mjarosz">Michał Jarosz</a> in <a href="https://dribbble.com/shots/5886056-ToucanPay-App">Dribble</a>
+A Flutter representation of ToucanPay App UI design by <a href="https://dribbble.com/mjarosz">Michał Jarosz</a> in <a href="https://dribbble.com/shots/5886056-ToucanPay-App">Dribble</a>.
+
+
 Star this repo if you like what you see.
 
 ## 📸 Screenshots
