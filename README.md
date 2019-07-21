@@ -20,8 +20,8 @@ Star this repo if you like what you see.
 
 In the command terminal, run the following commands:
 
-    $ git clone https://github.com/emrade/flutter-ui-toucanpay-app.git
-    $ cd flutter-ui-toucanpay-app/
+    $ git clone https://github.com/emrade/flutter-ui-toucanpay-app.git toucanpay_app
+    $ cd toucanpay_app/
     $ flutter run
 
 ##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting started with your Flutter project.
