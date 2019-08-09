@@ -22,6 +22,7 @@ In the command terminal, run the following commands:
 
     $ git clone https://github.com/emrade/flutter-ui-toucanpay-app.git toucanpay_app
     $ cd toucanpay_app/
+    $ flutter packages get
     $ flutter run
 
 ##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting started with your Flutter project.
